@@ -1,2 +1,3 @@
 # demo_git
-Prendre en main Git
+Prendre en main Git.
+Telecharger des repository.
