@@ -1,1 +1,2 @@
-Insertion d'une première ligne dans le fichier"
+Insertion d'une première ligne dans le fichier
+Puis ajout d'une seconde ligne !
